@@ -1,5 +1,5 @@
 {
   "domain": "testuzleuven.eu.auth0.com",
   "clientId": "oF2uM7fmwX9Y1fyh21WNCSx7TxQzInYI",
-  "audience": "testapi"
+  "audience": "https://testpythonapi-thomas-mgmt-dev.apps.osclu-p01.uz.kuleuven.ac.be"
 }
